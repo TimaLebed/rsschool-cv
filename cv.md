@@ -10,3 +10,10 @@ I want to learn programming, i like it. I like to create something. I consider t
 basic skills vscode,html
 5. ### Code examples:
 I created only one landing page.
+6. ### Experience:
+* finished courses of [HTMLacademy](https://htmlacademy.ru/courses) -  only html and css.
+* self study programming with [youtube](https://www.youtube.com)
+7. ### Education: 
+* Higher education (Belarusian National Technical University) 
+8. ### English:
+A2 experience:[lingualeo](https://lingualeo.com)

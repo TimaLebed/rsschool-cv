@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper {
+    width: 1000px;
+    margin: 0 auto;
+    padding: 0 100px;
+    background-color:#ecf0f1;
+    line-height: 45px;
+} 
+ul {
+    padding-left: 50px;
+    list-style-type: circle;
+}
+h1 {
+    padding: 30px 0 30px 0;
+    text-align: center;
+}
+.image {
+ position: absolute;
+ top: 18%;
+ right: 24%;;
+}
+img {
+background-color: #34495e;
+border-radius: 20px;
+}
